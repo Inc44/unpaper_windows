@@ -4,6 +4,8 @@ Unpaper is a post-processing tool for scanned sheets of paper, especially useful
 ### Dependencies
 The only hard dependency of `unpaper` is [ffmpeg][5], which is used for
 file input and output.
+### Installation
+Download the repository as an archive and register the path or place it into the Windows folder.
 ### Original Project
 https://github.com/unpaper/unpaper
 ### VirusTotal
